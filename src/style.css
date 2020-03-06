@@ -1,0 +1,32 @@
+body {
+    font-size: 20px;
+}
+
+.header {
+    width: 50%;
+    margin: 40px auto 0px;
+    color: white;
+    background: #483d88;
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.wrapper {
+    width: 50%;
+    margin: 0px auto;
+    border: 1px solid gray;
+}
+
+.wrapper:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.words {
+    width: 29%;
+    background: #dcdcdc;
+    padding-top: 10px;
+    float: left;
+}
