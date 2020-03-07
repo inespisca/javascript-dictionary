@@ -1,3 +1,5 @@
+Deployed project: https://test-dictio.netlify.com/
+
 Note: This is just a practice exercise.
 
 ## All language nerds need a dictionary
